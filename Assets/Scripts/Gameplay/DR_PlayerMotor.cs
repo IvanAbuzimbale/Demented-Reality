@@ -26,6 +26,10 @@ namespace DementedReality.Gameplay.Player
         private float defaultStepOffset;
         private bool isCrouched;
 
+        // When false, the motor leaves rotation alone so another system
+        // (e.g. the aim controller) can steer facing.
+        public bool AllowRotation { get; set; } = true;
+
         private void Awake()
         {
             characterController = GetComponent<CharacterController>();
@@ -70,7 +74,7 @@ namespace DementedReality.Gameplay.Player
 
             horizontalVelocity = Vector3.MoveTowards(horizontalVelocity, targetHorizontalVelocity, acceleration * deltaTime);
 
-            if (moveDirection.sqrMagnitude > 0.0001f)
+            if (AllowRotation && moveDirection.sqrMagnitude > 0.0001f)
             {
                 Quaternion targetRotation = GetTargetRotation(moveInput, moveDirection);
                 transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, rotationSpeed * deltaTime);

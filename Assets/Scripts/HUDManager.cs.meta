@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 970ab922245a0e544bafd5c0f357453f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthRing: {instanceID: 0}
+  - pistolIcon: {instanceID: 0}
+  - ammoText: {instanceID: 0}
+  - pistolFullSprite: {fileID: 21300000, guid: 4280d9ec13d506bcaafad7197d01b1c3, type: 3}
+  - pistolEmptySprite: {fileID: 21300000, guid: ce1c153c6422c57af9d4782b92b6ba28, type: 3}
+  - knifeSprite: {fileID: 21300000, guid: cd3d863d2742bdcdb9471e154b6cefb5, type: 3}
+  - knifeBrokenSprite: {fileID: 21300000, guid: f1a662e30509cb924be4107a039c3fc7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

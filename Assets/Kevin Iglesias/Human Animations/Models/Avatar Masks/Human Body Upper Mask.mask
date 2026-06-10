@@ -11,119 +11,743 @@ AvatarMask:
   m_Elements:
   - m_Path: 
     m_Weight: 1
-  - m_Path: HumanF_BodyMesh
-    m_Weight: 0
-  - m_Path: Rig
+  - m_Path: beard
     m_Weight: 1
-  - m_Path: Rig/B-root
+  - m_Path: clothes
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips
+  - m_Path: clothes_damage
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine
+  - m_Path: cornea
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest
+  - m_Path: eyelash
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-neck
+  - m_Path: eyes
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-neck/B-head
+  - m_Path: hair
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-neck/B-head/B-jaw
+  - m_Path: hands
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L
+  - m_Path: pl0000_ng
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L
+  - m_Path: pl0000_ng/origin
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L
+  - m_Path: pl0000_ng/origin/attach_cam
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L
+  - m_Path: pl0000_ng/origin/attach_cam/attach_cam_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-handProp.L
+  - m_Path: pl0000_ng/origin/attach_cam/attach_cam_end/attach_cam_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-indexFinger01.L
+  - m_Path: pl0000_ng/origin/event_pos
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-indexFinger01.L/B-indexFinger02.L
+  - m_Path: pl0000_ng/origin/event_pos/event_pos_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-indexFinger01.L/B-indexFinger02.L/B-indexFinger03.L
+  - m_Path: pl0000_ng/origin/event_pos/event_pos_end/event_pos_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-middleFinger01.L
+  - m_Path: pl0000_ng/origin/glabella_normalmap
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-middleFinger01.L/B-middleFinger02.L
+  - m_Path: pl0000_ng/origin/glabella_normalmap/glabella_normalmap_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-middleFinger01.L/B-middleFinger02.L/B-middleFinger03.L
+  - m_Path: pl0000_ng/origin/glabella_normalmap/glabella_normalmap_end/glabella_normalmap_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-pinky01.L
+  - m_Path: pl0000_ng/origin/jawtip_normalmap
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-pinky01.L/B-pinky02.L
+  - m_Path: pl0000_ng/origin/jawtip_normalmap/jawtip_normalmap_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-pinky01.L/B-pinky02.L/B-pinky03.L
+  - m_Path: pl0000_ng/origin/jawtip_normalmap/jawtip_normalmap_end/jawtip_normalmap_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-ringFinger01.L
+  - m_Path: pl0000_ng/origin/l_eye_normalmap
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-ringFinger01.L/B-ringFinger02.L
+  - m_Path: pl0000_ng/origin/l_eye_normalmap/l_eye_normalmap_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-ringFinger01.L/B-ringFinger02.L/B-ringFinger03.L
+  - m_Path: pl0000_ng/origin/l_eye_normalmap/l_eye_normalmap_end/l_eye_normalmap_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-thumb01.L
+  - m_Path: pl0000_ng/origin/l_eyeside_normalmap
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-thumb01.L/B-thumb02.L
+  - m_Path: pl0000_ng/origin/l_eyeside_normalmap/l_eyeside_normalmap_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.L/B-upperArm.L/B-forearm.L/B-hand.L/B-thumb01.L/B-thumb02.L/B-thumb03.L
+  - m_Path: pl0000_ng/origin/l_eyeside_normalmap/l_eyeside_normalmap_end/l_eyeside_normalmap_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R
+  - m_Path: pl0000_ng/origin/l_forehead_normalmap
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R
+  - m_Path: pl0000_ng/origin/l_forehead_normalmap/l_forehead_normalmap_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R
+  - m_Path: pl0000_ng/origin/l_forehead_normalmap/l_forehead_normalmap_end/l_forehead_normalmap_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R
+  - m_Path: pl0000_ng/origin/l_mouthside_normalmap
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-handProp.R
+  - m_Path: pl0000_ng/origin/l_mouthside_normalmap/l_mouthside_normalmap_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-indexFinger01.R
+  - m_Path: pl0000_ng/origin/l_mouthside_normalmap/l_mouthside_normalmap_end/l_mouthside_normalmap_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-indexFinger01.R/B-indexFinger02.R
+  - m_Path: pl0000_ng/origin/neck_normalmap
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-indexFinger01.R/B-indexFinger02.R/B-indexFinger03.R
+  - m_Path: pl0000_ng/origin/neck_normalmap/neck_normalmap_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-middleFinger01.R
+  - m_Path: pl0000_ng/origin/neck_normalmap/neck_normalmap_end/neck_normalmap_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-middleFinger01.R/B-middleFinger02.R
+  - m_Path: pl0000_ng/origin/nose_normalmap
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-middleFinger01.R/B-middleFinger02.R/B-middleFinger03.R
+  - m_Path: pl0000_ng/origin/nose_normalmap/nose_normalmap_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-pinky01.R
+  - m_Path: pl0000_ng/origin/nose_normalmap/nose_normalmap_end/nose_normalmap_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-pinky01.R/B-pinky02.R
+  - m_Path: pl0000_ng/origin/pelvis
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-pinky01.R/B-pinky02.R/B-pinky03.R
+  - m_Path: pl0000_ng/origin/pelvis/bag_01
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-ringFinger01.R
+  - m_Path: pl0000_ng/origin/pelvis/bag_01/bag_01_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-ringFinger01.R/B-ringFinger02.R
+  - m_Path: pl0000_ng/origin/pelvis/bag_01/bag_01_end/bag_01_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-ringFinger01.R/B-ringFinger02.R/B-ringFinger03.R
+  - m_Path: pl0000_ng/origin/pelvis/belt_00
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-thumb01.R
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/attach_05
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-thumb01.R/B-thumb02.R
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/attach_05/attach_05_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-spine/B-chest/B-shoulder.R/B-upperArm.R/B-forearm.R/B-hand.R/B-thumb01.R/B-thumb02.R/B-thumb03.R
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/attach_05/attach_05_end/attach_05_end_end
     m_Weight: 1
-  - m_Path: Rig/B-root/B-hips/B-thigh.L
-    m_Weight: 0
-  - m_Path: Rig/B-root/B-hips/B-thigh.L/B-shin.L
-    m_Weight: 0
-  - m_Path: Rig/B-root/B-hips/B-thigh.L/B-shin.L/B-foot.L
-    m_Weight: 0
-  - m_Path: Rig/B-root/B-hips/B-thigh.L/B-shin.L/B-foot.L/B-toe.L
-    m_Weight: 0
-  - m_Path: Rig/B-root/B-hips/B-thigh.R
-    m_Weight: 0
-  - m_Path: Rig/B-root/B-hips/B-thigh.R/B-shin.R
-    m_Weight: 0
-  - m_Path: Rig/B-root/B-hips/B-thigh.R/B-shin.R/B-foot.R
-    m_Weight: 0
-  - m_Path: Rig/B-root/B-hips/B-thigh.R/B-shin.R/B-foot.R/B-toe.R
-    m_Weight: 0
-  - m_Path: Rig/B-root/B-spineProxy
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/bag_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/bag_00/bn_beltbagflap
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/bag_00/bn_beltbagflap/bn_beltbagflap_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/bag_00/bn_beltbagflap/bn_beltbagflap_end/bn_beltbagflap_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_01/belt_sub_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_01/belt_sub_01_end/belt_sub_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_02/belt_sub_02_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_02/belt_sub_02_end/belt_sub_02_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_03
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_03/belt_sub_03_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_03/belt_sub_03_end/belt_sub_03_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_04
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_04/belt_sub_04_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_04/belt_sub_04_end/belt_sub_04_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_05
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_05/belt_sub_05_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_05/belt_sub_05_end/belt_sub_05_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_06
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_06/belt_sub_06_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_06/belt_sub_06_end/belt_sub_06_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_07
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_07/belt_sub_07_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_07/belt_sub_07_end/belt_sub_07_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_08
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_08/belt_sub_08_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_08/belt_sub_08_end/belt_sub_08_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_09
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_09/belt_sub_09_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/belt_sub_09/belt_sub_09_end/belt_sub_09_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/bn_beltcuffs
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/bn_beltcuffs/bn_beltcuffs_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_00/bn_beltcuffs/bn_beltcuffs_end/bn_beltcuffs_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_01/belt_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/belt_01/belt_01_end/belt_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/l_thigh
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/l_thigh/l_shin
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/l_thigh/l_shin/l_foot
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/l_thigh/l_shin/l_foot/l_toe
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/l_thigh/l_shin/l_foot/l_toe/l_toe_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/l_thigh/l_shin/l_foot/l_toe/l_toe_end/l_toe_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/l_thigh/l_sup_knee
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/l_thigh/l_sup_knee/l_sup_knee_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/l_thigh/l_sup_knee/l_sup_knee_end/l_sup_knee_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/r_thigh
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/r_thigh/r_shin
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/r_thigh/r_shin/r_foot
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/r_thigh/r_shin/r_foot/r_toe
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/r_thigh/r_shin/r_foot/r_toe/r_toe_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/r_thigh/r_shin/r_foot/r_toe/r_toe_end/r_toe_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/r_thigh/r_sup_knee
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/r_thigh/r_sup_knee/r_sup_knee_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/r_thigh/r_sup_knee/r_sup_knee_end/r_sup_knee_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/bn_vestbackbelt
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/bn_vestbackbelt/bn_vestbackflap
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/bn_vestbackbelt/bn_vestbackflap/bn_vestbackflap_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/bn_vestbackbelt/bn_vestbackflap/bn_vestbackflap_end/bn_vestbackflap_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/attach_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/attach_02/attach_02_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/attach_02/attach_02_end/attach_02_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/attach_06
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/attach_06/attach_06_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/attach_06/attach_06_end/attach_06_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/bn_backholsterring
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/bn_backholsterring/bn_backholsterring_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/bn_backholsterring/bn_backholsterring_end/bn_backholsterring_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_backstrap
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_backstrap/l_backstrap_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_backstrap/l_backstrap_end/l_backstrap_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_collar_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_collar_01/l_collar_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_collar_01/l_collar_02/l_collar_02_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_collar_01/l_collar_02/l_collar_02_end/l_collar_02_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/bn_l_shoulder
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/bn_l_shoulder/bn_l_holsterring
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/bn_l_shoulder/bn_l_holsterring/bn_l_holsterring_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/bn_l_shoulder/bn_l_holsterring/bn_l_holsterring_end/bn_l_holsterring_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_sup_upperarm_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_sup_upperarm_00/l_sup_upperarm_00_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_sup_upperarm_00/l_sup_upperarm_00_end/l_sup_upperarm_00_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/attach_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/attach_01/attach_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/attach_01/attach_01_end/attach_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_index_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_index_00/l_index_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_index_00/l_index_01/l_index_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_index_00/l_index_01/l_index_02/l_index_03
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_index_00/l_index_01/l_index_02/l_index_03/l_index_03_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_index_00/l_index_01/l_index_02/l_index_03/l_index_03_end/l_index_03_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_middle_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_middle_00/l_middle_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_middle_00/l_middle_01/l_middle_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_middle_00/l_middle_01/l_middle_02/l_middle_03
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_middle_00/l_middle_01/l_middle_02/l_middle_03/l_middle_03_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_middle_00/l_middle_01/l_middle_02/l_middle_03/l_middle_03_end/l_middle_03_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_pinky_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_pinky_00/l_pinky_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_pinky_00/l_pinky_01/l_pinky_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_pinky_00/l_pinky_01/l_pinky_02/l_pinky_03
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_pinky_00/l_pinky_01/l_pinky_02/l_pinky_03/l_pinky_03_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_pinky_00/l_pinky_01/l_pinky_02/l_pinky_03/l_pinky_03_end/l_pinky_03_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_ring_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_ring_00/l_ring_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_ring_00/l_ring_01/l_ring_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_ring_00/l_ring_01/l_ring_02/l_ring_03
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_ring_00/l_ring_01/l_ring_02/l_ring_03/l_ring_03_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_ring_00/l_ring_01/l_ring_02/l_ring_03/l_ring_03_end/l_ring_03_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_thumb_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_thumb_00/l_thumb_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_thumb_00/l_thumb_01/l_thumb_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_thumb_00/l_thumb_01/l_thumb_02/l_thumb_02_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_hand/l_thumb_00/l_thumb_01/l_thumb_02/l_thumb_02_end/l_thumb_02_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_sleeve
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_sleeve/l_sleeve_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_sleeve/l_sleeve_end/l_sleeve_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_sup_forearm_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_sup_forearm_00/l_sup_forearm_00_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_sup_forearm_00/l_sup_forearm_00_end/l_sup_forearm_00_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_sup_forearm_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_sup_forearm_01/l_sup_forearm_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_forearm/l_sup_forearm_01/l_sup_forearm_01_end/l_sup_forearm_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_sup_elbow
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_sup_elbow/l_sup_elbow_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_sup_elbow/l_sup_elbow_end/l_sup_elbow_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_sup_upperarm_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_sup_upperarm_01/l_sup_upperarm_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/l_shoulder/l_upperarm/l_sup_upperarm_01/l_sup_upperarm_01_end/l_sup_upperarm_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/cloth_04
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/cloth_04/cloth_05
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/cloth_04/cloth_05/cloth_06
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/cloth_04/cloth_05/cloth_06/cloth_06_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/cloth_04/cloth_05/cloth_06/cloth_06_end/cloth_06_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/l_ripbtm
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/l_ripbtm/l_ripbtm_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/l_ripbtm/l_ripbtm_end/l_ripbtm_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/r_ripbtm
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/r_ripbtm/r_ripbtm_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/r_ripbtm/r_ripbtm_end/r_ripbtm_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/ripdtm
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/ripdtm/ripdtm_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/ripdtm/ripdtm_end/ripdtm_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/tan_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/tan_00/tan_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/tan_00/tan_01/tan_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/jaw/tan_00/tan_01/tan_01_end/tan_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_cheek_down
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_cheek_down/l_cheek_down_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_cheek_down/l_cheek_down_end/l_cheek_down_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_cheek_up
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_cheek_up/l_cheek_up_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_cheek_up/l_cheek_up_end/l_cheek_up_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eye
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eye/l_eye_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eye/l_eye_end/l_eye_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyebrow_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyebrow_00/l_eyebrow_00_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyebrow_00/l_eyebrow_00_end/l_eyebrow_00_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyebrow_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyebrow_01/l_eyebrow_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyebrow_01/l_eyebrow_01_end/l_eyebrow_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyelid
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyelid/l_eyelid_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyelid/l_eyelid_end/l_eyelid_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyelid_down
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyelid_down/l_eyelid_down_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_eyelid_down/l_eyelid_down_end/l_eyelid_down_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_nose
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_nose/l_nose_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_nose/l_nose_end/l_nose_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_ripcorner
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_ripcorner/l_ripcorner_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_ripcorner/l_ripcorner_end/l_ripcorner_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_riptop
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_riptop/l_riptop_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/l_riptop/l_riptop_end/l_riptop_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_cheek_down
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_cheek_down/r_cheek_down_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_cheek_down/r_cheek_down_end/r_cheek_down_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_cheek_up
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_cheek_up/r_cheek_up_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_cheek_up/r_cheek_up_end/r_cheek_up_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eye
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eye/r_eye_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eye/r_eye_end/r_eye_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyebrow_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyebrow_00/r_eyebrow_00_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyebrow_00/r_eyebrow_00_end/r_eyebrow_00_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyebrow_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyebrow_01/r_eyebrow_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyebrow_01/r_eyebrow_01_end/r_eyebrow_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyelid
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyelid/r_eyelid_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyelid/r_eyelid_end/r_eyelid_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyelid_down
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyelid_down/r_eyelid_down_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_eyelid_down/r_eyelid_down_end/r_eyelid_down_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_nose
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_nose/r_nose_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_nose/r_nose_end/r_nose_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_ripcorner
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_ripcorner/r_ripcorner_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_ripcorner/r_ripcorner_end/r_ripcorner_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_riptop
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_riptop/r_riptop_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/r_riptop/r_riptop_end/r_riptop_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/riptop
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/riptop/riptop_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/neck_00/neck_01/head/riptop/riptop_end/riptop_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_backstrap_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_backstrap_01/r_backstrap_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_backstrap_01/r_backstrap_01_end/r_backstrap_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_backstrap_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_backstrap_02/r_backstrap_02_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_backstrap_02/r_backstrap_02_end/r_backstrap_02_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_collar_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_collar_01/r_collar_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_collar_01/r_collar_02/r_collar_02_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_collar_01/r_collar_02/r_collar_02_end/r_collar_02_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/bn_r_shoulder
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/bn_r_shoulder/bn_r_holsterring
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/bn_r_shoulder/bn_r_holsterring/bn_r_holsterring_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/bn_r_shoulder/bn_r_holsterring/bn_r_holsterring_end/bn_r_holsterring_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_sup_upperarm_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_sup_upperarm_00/r_sup_upperarm_00_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_sup_upperarm_00/r_sup_upperarm_00_end/r_sup_upperarm_00_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/attach_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/attach_00/attach_07
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/attach_00/attach_07/attach_07_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/attach_00/attach_07/attach_07_end/attach_07_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/attach_00/attach_l_hand
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/attach_00/attach_l_hand/attach_l_hand_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/attach_00/attach_l_hand/attach_l_hand_end/attach_l_hand_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_index_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_index_00/r_index_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_index_00/r_index_01/r_index_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_index_00/r_index_01/r_index_02/r_index_03
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_index_00/r_index_01/r_index_02/r_index_03/r_index_03_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_index_00/r_index_01/r_index_02/r_index_03/r_index_03_end/r_index_03_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_middle_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_middle_00/r_middle_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_middle_00/r_middle_01/r_middle_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_middle_00/r_middle_01/r_middle_02/r_middle_03
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_middle_00/r_middle_01/r_middle_02/r_middle_03/r_middle_03_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_middle_00/r_middle_01/r_middle_02/r_middle_03/r_middle_03_end/r_middle_03_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_pinky_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_pinky_00/r_pinky_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_pinky_00/r_pinky_01/r_pinky_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_pinky_00/r_pinky_01/r_pinky_02/r_pinky_03
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_pinky_00/r_pinky_01/r_pinky_02/r_pinky_03/r_pinky_03_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_pinky_00/r_pinky_01/r_pinky_02/r_pinky_03/r_pinky_03_end/r_pinky_03_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_ring_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_ring_00/r_ring_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_ring_00/r_ring_01/r_ring_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_ring_00/r_ring_01/r_ring_02/r_ring_03
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_ring_00/r_ring_01/r_ring_02/r_ring_03/r_ring_03_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_ring_00/r_ring_01/r_ring_02/r_ring_03/r_ring_03_end/r_ring_03_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_thumb_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_thumb_00/r_thumb_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_thumb_00/r_thumb_01/r_thumb_02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_thumb_00/r_thumb_01/r_thumb_02/r_thumb_02_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_hand/r_thumb_00/r_thumb_01/r_thumb_02/r_thumb_02_end/r_thumb_02_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_sleeve
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_sleeve/r_sleeve_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_sleeve/r_sleeve_end/r_sleeve_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_sup_forearm_00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_sup_forearm_00/r_sup_forearm_00_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_sup_forearm_00/r_sup_forearm_00_end/r_sup_forearm_00_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_sup_forearm_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_sup_forearm_01/r_sup_forearm_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_forearm/r_sup_forearm_01/r_sup_forearm_01_end/r_sup_forearm_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_sup_elbow
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_sup_elbow/r_sup_elbow_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_sup_elbow/r_sup_elbow_end/r_sup_elbow_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_sup_upperarm_01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_sup_upperarm_01/r_sup_upperarm_01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/r_shoulder/r_upperarm/r_sup_upperarm_01/r_sup_upperarm_01_end/r_sup_upperarm_01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/tie
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/tie/tie_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/pelvis/spine_00/spine_01/spine_02/tie/tie_end/tie_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_eye_normalmap
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_eye_normalmap/r_eye_normalmap_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_eye_normalmap/r_eye_normalmap_end/r_eye_normalmap_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_eyeside_normalmap
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_eyeside_normalmap/r_eyeside_normalmap_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_eyeside_normalmap/r_eyeside_normalmap_end/r_eyeside_normalmap_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_forehead_normalmap
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_forehead_normalmap/r_forehead_normalmap_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_forehead_normalmap/r_forehead_normalmap_end/r_forehead_normalmap_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_mouthside_normalmap
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_mouthside_normalmap/r_mouthside_normalmap_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/r_mouthside_normalmap/r_mouthside_normalmap_end/r_mouthside_normalmap_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/trajectory
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/trajectory/attach_em00
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/trajectory/attach_em00/attach_em00_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/trajectory/attach_em00/attach_em00_end/attach_em00_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/trajectory/attach_em01
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/trajectory/attach_em01/attach_em01_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/trajectory/attach_em01/attach_em01_end/attach_em01_end_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/trajectory/attach_em02
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/trajectory/attach_em02/attach_em02_end
+    m_Weight: 1
+  - m_Path: pl0000_ng/origin/trajectory/attach_em02/attach_em02_end/attach_em02_end_end
+    m_Weight: 1
+  - m_Path: Sebastian_Head_Mesh
+    m_Weight: 1
+  - m_Path: teethtongue
+    m_Weight: 1
+  - m_Path: tools
+    m_Weight: 1
+  - m_Path: tools_metal
     m_Weight: 1
